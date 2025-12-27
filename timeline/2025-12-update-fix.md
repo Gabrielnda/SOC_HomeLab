@@ -1,4 +1,5 @@
 # Arquivos de certificados renomeados após atualização
+<img width="600" height="400" alt="w3" src="https://github.com/user-attachments/assets/9a2abd1d-f9ad-4591-ae68-d762674d10b4" />
 
 ## Contexto
 > Após atualização ao tentar acessar painel web wazuh, apareceu a seguinte mensagem: "Hum... Não consigo chegar a esta página"
@@ -52,6 +53,9 @@ nano /etc/wazuh-dashboard/opensearch_dashboards.yml
 - server.ssl.certificate: "/etc/wazuh-dashboard/certs/dashboard.pem" 
 + server.ssl.certificate: "/etc/wazuh-dashboard/certs/wazuh-dashboard.pem" 
 ```
+
+<img width="897" height="335" alt="image" src="https://github.com/user-attachments/assets/4c4cc6ee-4be7-475e-87ab-4a6de95750b0" />
+
 #### [6] Ação final
 - Serviço reiniciado:
 ```bash
