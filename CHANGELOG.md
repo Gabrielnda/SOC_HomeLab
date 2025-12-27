@@ -1,6 +1,6 @@
 # CHANGELOG – SOC Home Lab
 
-## [26-12-2025] – Erro na rede 
+## [2025-12-26] – Erro na rede 
 **Categoria:** Manutenção / Correção  
 **Resumo:** Rede Wifi não configurada
 
@@ -8,11 +8,11 @@
 - Correção da nomeação das pastas;
 - Acesso ao painel corrigido.
 
-🔗 Detalhes: [Update Fix](timeline/27-2025-update-fix.md)
+🔗 Detalhes: [Erro na rede](timeline/2025-12-network-error.md)
 
 ---
 
-## [27-12-2025] – Erro de acesso após atualização
+## [2025-12-27] – Erro de acesso após atualização
 **Categoria:** Manutenção / Correção  
 **Resumo:** Após atualização painel web wazuh estava inacessível "Hum... Não consigo chegar a esta página"
 
@@ -20,16 +20,16 @@
 - Correção da nomeação das pastas;
 - Acesso ao painel corrigido.
 
-🔗 Detalhes: [Update Fix](timeline/27-2025-update-fix.md)
+🔗 Detalhes: [Update Fix](timeline/2025-12-update-fix.md)
 
 ---
 
-## [27-12-2025] – Criação do script de instalação
-**Categoria:** Atualização
+## [2025-12-27] – Criação do script de instalação
+**Categoria:** Atualização  
 **Resumo:** Script facilitado para download do wazuh nos agents
 
 🔹 Resultado:
-- Intalação e modo privilegiado;
+- Instalação em modo privilegiado;
 - Retorno de mensagem caso o arquivo exista ou a instalação finalize.
 
 🔗 Detalhes: [Script de instalação](scripts/WazuhAgentSuperRetorno.md)
