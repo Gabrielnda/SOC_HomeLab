@@ -25,7 +25,7 @@
 ---
 
 ## [2025-12-27] – Criação do script de instalação
-**Categoria:** Atualização  
+**Categoria:** Otimização  
 **Resumo:** Script facilitado para download do wazuh nos agents
 
 🔹 Resultado:
@@ -33,3 +33,14 @@
 - Retorno de mensagem caso o arquivo exista ou a instalação finalize.
 
 🔗 Detalhes: [Script de instalação](scripts/WazuhAgentSuperRetorno.md)
+
+---
+
+## [2026-01-20] – IDS e IPS
+**Categoria:** Implementação  
+**Resumo:** Integração do Suricata ao Wazuh 
+
+🔹 Resultado:
+- Possibilidade de análise do tráfego da rede para identificar e bloquear ameaças.
+
+🔗 Detalhes: [Instalação do Suricata](timeline/2026-01-install-suricata.md)
