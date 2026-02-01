@@ -54,7 +54,7 @@
 🔹 Resultado:
 - Wazuh + Suricata funcionando redondo.
 
-🔗 Detalhes: [Instalação NTP](timeline/2026-01-troubleshooting.md)
+🔗 Detalhes: [Correções](timeline/2026-01-troubleshooting.md)
 
 ---
 
