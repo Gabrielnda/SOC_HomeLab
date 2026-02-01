@@ -44,3 +44,25 @@
 - Possibilidade de análise do tráfego da rede para identificar e bloquear ameaças.
 
 🔗 Detalhes: [Instalação do Suricata](timeline/2026-01-install-suricata.md)
+
+---
+
+## [2026-01-21] – Correções
+**Categoria:** Manutenção  
+**Resumo:** Erros de funcionamento.
+
+🔹 Resultado:
+- Wazuh + Suricata funcionando redondo.
+
+🔗 Detalhes: [Instalação NTP](timeline/2026-01-troubleshooting.md)
+
+---
+
+## [2026-01-22] – Data e Hora
+**Categoria:** Manutenção  
+**Resumo:** Integração do protocolo NTP para sincronização de data e hora.
+
+🔹 Resultado:
+- Correção de horários dos logs não estarem correspondendo ao horario correspondente.
+
+🔗 Detalhes: [Instalação NTP](timeline/2026-01-protocolo-NTP.md)

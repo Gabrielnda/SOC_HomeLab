@@ -83,4 +83,4 @@ sudo suricata-update
 
 ## Suricata em produção
 
-![alt text](../BK/image.png)
+![alt text](../BK/suricata_running.png)
